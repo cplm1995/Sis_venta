@@ -1,0 +1,3 @@
+git remoto agregar origen https://github.com/cplm1995/Sis_venta.git
+ git rama -M principal 
+git push -u origen principal
